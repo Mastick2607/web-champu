@@ -1,5 +1,5 @@
 // WhatsApp Configuration
-const WHATSAPP_NUMBER = "57xxxxxxxxxx" // Reemplaza con tu número de WhatsApp (código de país + número sin espacios ni símbolos)
+const WHATSAPP_NUMBER = "573137018502" // Reemplaza con tu número de WhatsApp (código de país + número sin espacios ni símbolos)
 const WHATSAPP_MESSAGE = "¡Hola! Estoy interesado en el Shampoo pinta canas color negro. ¿Podrían darme más información?"
 
 // Function to open WhatsApp
